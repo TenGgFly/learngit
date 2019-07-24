@@ -1,4 +1,4 @@
 Git new 1
 this is third change 3
-this is new 2
+this is new
 i alread deletel fourth 4
